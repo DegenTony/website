@@ -6,6 +6,6 @@
     <title>Tony</title>
 </head>
 <body>
-    <img src="Tony.png" alt="Moon">
+    <img src="Tony.jpeg" alt="Moon">
 </body>
 </html>
